@@ -5,11 +5,15 @@
 使用ListView顯示書籍資訊以及特色:
 
 1.支援多種檢視模式：大圖示、詳細資料、小圖示、清單、大圖示加詳細資料模式
-<img width="384" height="143" alt="image" src="https://github.com/user-attachments/assets/d17cdb34-b9f6-4c7a-8540-54fc28fd2c79" />
-<img width="404" height="93" alt="image" src="https://github.com/user-attachments/assets/45f1ff10-3b20-4ba6-b818-73daebfed94a" />
-<img width="390" height="72" alt="image" src="https://github.com/user-attachments/assets/19f0d030-3d17-472f-be61-c5b74d1eb433" />
-<img width="252" height="108" alt="image" src="https://github.com/user-attachments/assets/8ed4d22e-fb7e-4c48-9e24-235c76d37bb9" />
-<img width="373" height="248" alt="image" src="https://github.com/user-attachments/assets/362f4fe9-f4fe-42f8-80cb-f2f1cd927712" />
+<img width="384" height="143" alt="image" src="https://github.com/user-attachments/assets/d17cdb34-b9f6-4c7a-8540-54fc28fd2c79" />大圖示
+
+<img width="404" height="93" alt="image" src="https://github.com/user-attachments/assets/45f1ff10-3b20-4ba6-b818-73daebfed94a" />詳細資料
+
+<img width="390" height="72" alt="image" src="https://github.com/user-attachments/assets/19f0d030-3d17-472f-be61-c5b74d1eb433" />小圖示
+
+<img width="252" height="108" alt="image" src="https://github.com/user-attachments/assets/8ed4d22e-fb7e-4c48-9e24-235c76d37bb9" />清單
+
+<img width="373" height="248" alt="image" src="https://github.com/user-attachments/assets/362f4fe9-f4fe-42f8-80cb-f2f1cd927712" />大圖示加詳細資料
 
 
 2.書籍資訊顯示：書名、作者、類別
