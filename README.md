@@ -20,8 +20,7 @@
 
 3.雙擊書籍可加入借書清單，並在借書清單中列出你借閱過的書籍。
 <img width="227" height="129" alt="image" src="https://github.com/user-attachments/assets/22b21a3e-f6a8-463a-94cd-ec0f6f1f597f" />
+
 <img width="186" height="125" alt="image" src="https://github.com/user-attachments/assets/558a91fc-b67e-495b-9aba-a5c4ef6b96b2" />
-
-
 
 4.防止重複借閱
