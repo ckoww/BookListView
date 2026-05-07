@@ -19,5 +19,7 @@
 2.書籍資訊顯示：書名、作者、類別
 
 3.雙擊書籍可加入借閱清單
+<img width="227" height="129" alt="image" src="https://github.com/user-attachments/assets/22b21a3e-f6a8-463a-94cd-ec0f6f1f597f" />
+
 
 4.防止重複借閱
